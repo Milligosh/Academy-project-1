@@ -1,0 +1,9 @@
+DOM stands for Document Object Model. It is a programming phase that allows developers to access and manipulate HTML documents .
+
+JavaScript promises are objects that indicate the future success or failure of an action.
+
+Object-Oriented Programming is a programming phase that is based on the concept of "objects.
+
+A callback in programming is a function passed as arguments to other functions
+
+One billion bytes make a gigabye
