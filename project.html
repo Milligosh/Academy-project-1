@@ -11,17 +11,18 @@
 <body>
     
   <form id="myForm">
-    <label for="firstName">First name:</label>
+    <label for="firstName">First name:</label><br>
     <input type="text" id="firstName" required><br>
 
-    <label for="lastName">Last name:</label>
+    <label for="lastName">Last name:</label><br>
     <input type="text" id="lastName" required><br>
 
-    <label for="age">Age:</label>
+    <label for="age">Age:</label> <br>
     <input type="number" id="age" required><br>
 
-    <label for="country">Country:</label>
+    <label for="country">Country:</label><br>
     <select id="country" required>
+      <option value="" disable selected hidden>Choose an option</option>
       <option value="USA">USA</option>
       <option value="Brazil">Brazil</option>
       <option value="Dubai">Dubai</option>
@@ -32,7 +33,7 @@
       
     </select><br>
 
-    <label for="picture">Picture:</label>
+    <label for="picture">Picture:</label><br>
     <input type="file" id="picture" accept="image/*" required><br>
 
     <button type="submit">Submit</button>
