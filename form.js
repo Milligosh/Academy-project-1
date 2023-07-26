@@ -33,5 +33,6 @@ document.addEventListener('DOMContentLoaded', () => {
     } catch (error) {
       alert(error.message);
     }
+    document.getElementById('myForm').reset();
   });
 });
