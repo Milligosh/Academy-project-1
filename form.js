@@ -7,7 +7,7 @@ class FormHandler {
 
     
     if (!firstName || !lastName || !age || !country) {
-      throw new Error('All fields are required.');
+      throw new Error("All fields are required.");
     }
   }
 
