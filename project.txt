@@ -1,8 +1,8 @@
-DOM stands for Document Object Model. It is a programming phase that allows developers to access and manipulate HTML documents .
+DOM stands for Document Object Model. It is a programming interface that allows developers to access and manipulate web documents .
 
 JavaScript promises are objects that indicate the future success or failure of an action.
 
-Object-Oriented Programming is a programming phase that is based on the concept of "objects.
+Object-Oriented Programming is a programming paradigm that is based on the concept of "objects. It is mainly characterized by the identification of classes of objects that are closely linked with the methods with which they are associated.
 
 A callback in programming is a function passed as arguments to other functions
 
