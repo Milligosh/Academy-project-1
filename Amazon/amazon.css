@@ -139,6 +139,13 @@ p{
     max-height: 17px;
     height:100%
 }
+hr{
+    background-color: rgb(245, 238, 238);
+    width:220px;
+    display: flex;
+    margin: 0 auto ;
+    box-shadow: 0px 3px 5px rgb(144,122,122) ;
+}
 .last {
     display:flex;
     flex-direction: column;
